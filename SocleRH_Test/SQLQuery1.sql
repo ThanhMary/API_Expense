@@ -1,0 +1,1 @@
+﻿select currencyId from Expenses where ExpenseId = 1
